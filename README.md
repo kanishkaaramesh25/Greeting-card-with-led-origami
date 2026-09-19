@@ -28,7 +28,7 @@
 *  Check the final card for proper finishing.
 
 
-![https://github.com/kanishkaaramesh25/Greeting-card-with-led-origami/blob/main/design.jpg][]  
+![https://github.com/kanishkaaramesh25/Greeting-card-with-led-origami/blob/main/design.jpg][design.jpg]  
 **4.NOTES**
 
 * the measurements and fold accurate.  
